@@ -1,0 +1,8 @@
+Retornar nome:
+	git config user.name
+
+Retornar email:
+	git config user.email
+
+Retornar tudo:
+	git config --list

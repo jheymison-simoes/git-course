@@ -1,0 +1,10 @@
+entre na pasta ~/.ssh/
+
+dentro desta pasta vai ter a chave publica id_res.pub
+
+pegue o valor da chave publica
+cat id_res.pub
+
+Copie a chave
+
+vá no github em settings e ssh e crie uma nova chave de um titulo e cole a chave

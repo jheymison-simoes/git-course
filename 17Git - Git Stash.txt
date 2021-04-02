@@ -1,0 +1,7 @@
+git stach  (Guarda modificação de algo que ainda não terminou caso precise ir pra outra branch)
+
+git stach apply (APlica as mudanças guardadas)
+
+git stash list (mostra a lista de todos os stash)
+
+git stash clear (limpa tudo que tiver no stash)

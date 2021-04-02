@@ -1,0 +1,2 @@
+git congig --global user.name "Jheymison Simões"
+git config --global user.email "jheymisonbao@live.com"

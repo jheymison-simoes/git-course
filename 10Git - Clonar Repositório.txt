@@ -1,0 +1,1 @@
+git clone <link do repositório> <nome da pasta que quiser *opcional>

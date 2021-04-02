@@ -1,0 +1,8 @@
+Listar os branchs
+  git branch
+
+Navegar entre os branch
+  git checkout <nome do branch>
+
+apagar branch
+  git branch -D <nome do branch>

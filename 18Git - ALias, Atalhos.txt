@@ -1,0 +1,3 @@
+git config --global alias.s status (craição de atalho para status)
+
+git config --global alis.up push -u origin master (criação de atalho para push)

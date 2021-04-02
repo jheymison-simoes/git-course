@@ -1,0 +1,8 @@
+Branch é um ponteiro movel que leva a um commit
+
+Vantagens
+
+-Poder modificar os arquivos sem alterar o local principal (master)
+-Facilmente desligável
+-Multiplas pessoas trabalhando
+-Evita conflitos

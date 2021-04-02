@@ -1,0 +1,9 @@
+git checkout <nome do arquivo> (Retorna o arquivo para o estado anterior antes de edita-lo)
+
+git reset HEAD <nome do arquivo> (Retira o arquivo do Status)
+
+git reset --soft <hash do commit> (Pega as modificações, voltar o commit, deixa pronto para comitar de novo)
+
+git reset --mixed <hash do commit> (vai matar o commit, volta os arquivos par antes do status)
+
+git reset --hard <hash do commit> (vai ignorar a existencia desse commit e tudo que foi feito nele)

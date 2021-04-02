@@ -1,0 +1,3 @@
+Fork cria uma cópia que voce pode editar e subir para o github novamente
+
+o Clone copia o repositorio, porem vc só pde subi-lo novamente para o github se ele for seu, se não for não vai aceitar

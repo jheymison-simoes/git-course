@@ -1,0 +1,1 @@
+git push -u <nome escolhido para o repositorio para onde quer enviar> <nome do branch em que está> 

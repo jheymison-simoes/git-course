@@ -1,0 +1,4 @@
+Iginora arquivos para não subir para o github
+*.json (Ignora todos os aquivos que contem extenção json)
+
+bus.txt (ignora um arquivo especifico)

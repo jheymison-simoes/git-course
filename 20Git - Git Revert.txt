@@ -1,0 +1,4 @@
+
+Serve para reverter as mudança alteradas
+
+git revert <hash do commit>

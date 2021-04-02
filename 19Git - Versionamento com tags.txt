@@ -1,0 +1,5 @@
+git tag -a <versão que quer colocar> -m "<mensagem>"
+
+git push origin master --tags (subir as tagas)
+
+git tag (Lista todas as tags geradas)

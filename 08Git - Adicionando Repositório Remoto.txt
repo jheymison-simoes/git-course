@@ -1,0 +1,5 @@
+git remote add <nome qualquer que identifique> <link do repositório remoto>
+
+git remote (retorna o nome do repositório colocado)
+
+gite remote -v (retorna o nome e link do repositório remoto)

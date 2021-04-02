@@ -1,0 +1,13 @@
+git log (mostra histórico e arquivos alterados)
+git log --decorate (Mostra mais informações)
+git log --author="Jhey" (filtra por author)
+git shortlog (Mostra em ordem alfabética ois Autores, quantos commits e quais eles foram)
+git shortlog -sn (Mostra a quantidade de commits e nome de quem comitou)
+git log --graph (Mostra em forma Grafica o que esta acontecendo com os branchs e versões)
+
+Dentro do git log --graph tem uma hash que mostra oque aconteceu neste commit
+git show <hash> mostra oque aconteceu no commit
+
+git diff (mostra as modificações antes mesmo de manda-las pelo commit)
+
+git diff --name-only (Diz o nome do arquivo que foi editado)

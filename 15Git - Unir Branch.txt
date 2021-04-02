@@ -1,0 +1,9 @@
+Fazendo Marge
+Usa um commit para juntar outros commit 
+
+git marge <nome do branch>
+
+Fazendo Rebase
+Pega tudo e bota na frente da fila, deixando linear
+
+git rebase <nome do branch>
